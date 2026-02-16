@@ -34,7 +34,7 @@ I focus on production-ready data workflows, strong validation frameworks, and sc
 
 ### 🔹 Data Quality Framework
 Designed a reusable validation framework using Great Expectations with automated CI checks to ensure dataset integrity and prevent downstream reporting issues.  
-👉 [View Project](https://github.com/YOURUSERNAME/project-name)
+👉 [View Project](https://github.com/Prishu1001/medicare-ffs-validation)
 
 ### 🔹 Healthcare Claims & Referral Analytics
 Analyzed provider referral and beneficiary utilization data to uncover patterns in access, network efficiency, and rural impact.  
