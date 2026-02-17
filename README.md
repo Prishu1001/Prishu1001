@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 Data @ Tria Federal | Public Health Analytics  
-Provider & Beneficiary Data Specialist  
+Provider, Beneficiary & Claims Data Specialist  
 
 I specialize in healthcare and public health data, building reliable analytics pipelines, improving data quality, and translating complex datasets into actionable insights that support provider networks and beneficiary outcomes.
 
