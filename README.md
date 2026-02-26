@@ -38,7 +38,7 @@ Designed a reusable validation framework using Great Expectations with automated
 
 ### 🔹 Healthcare Claims & Referral Analytics
 Analyzed provider referral and beneficiary utilization data to uncover patterns in access, network efficiency, and rural impact.  
-👉 [View Project](https://github.com/YOURUSERNAME/project-name)
+👉 [View Project](https://github.com/Prishu1001/healthcare-analytics)
 
 ### 🔹 Analytics Engineering Demo
 Built a dimensional model and defined business metrics using SQL and dbt to standardize reporting logic.  
