@@ -12,7 +12,7 @@ I focus on production-ready data workflows, strong validation frameworks, and sc
 
 ## 🏢 Professional & Leadership Roles
 - Data @ Tria Federal  
-- Provider and Beneficiary Data Specialist  
+- Provider, Beneficiary and Claims Data Specialist  
 - Carnegie Mellon Philadelphia New Jersey Network President  
 - Carnegie Mellon Tech & Entrepreneurship Philadelphia Chapter Lead  
 
